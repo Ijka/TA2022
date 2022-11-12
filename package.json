@@ -1,0 +1,23 @@
+{
+  "name": "ta2022",
+  "version": "1.0.0",
+  "description": "Hello there!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ijka/TA2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ijka/TA2022/issues"
+  },
+  "homepage": "https://github.com/Ijka/TA2022#readme",
+  "devDependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
