@@ -5,7 +5,7 @@
 4. Perform explicit conversion (number, string, boolean)*/
 
 let str = '4', num = 3, boo = false;
-console.log(typeof str, typeof num, typeof boo); 
+console.log(typeof str, typeof num, typeof boo);  
 
 /*1. Perform addition of various types (string + boolean, string + number, number + boolean)*/ 
 console.log('TASK 1');
